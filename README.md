@@ -8,3 +8,4 @@ In order to obtain all data contained in README.txt file, it is needed to run th
 
 A code book is contained in this repository under the name code_book.txt, which contains description of the columns and rows of the two datasets created here: *data_labeled_task4.tsv* and *average_data_labeled_task5.tsv*.
 
+The resulting datasets from the script run_analysis.R are in this repository under the names "data_labeled_task4.tsv", for the tidy dataset containing all subjects and activities raw info on each feature's measurement, and "average_data_labeled_task5.tsv" for the average of the measurements for all feature's data by activity performed per each subject. 
